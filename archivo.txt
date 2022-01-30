@@ -18,3 +18,5 @@ git config --list --show-origin te muestra  donde estan las configuraciones guar
 git config --global vas a cambiar los usuarios globales.
 git config --global user.name "name" cambiaremos la configuracion del usuario de git.
 git config --global user.email "email@gmail.com" cambio el correo
+kdkldklakldakldakad
+git add . siempre debes añadir los cambios al commit con esto. El punto es porque es la carpeta actual.
