@@ -1,0 +1,9 @@
+hola que tal mi nombre es Felix Diaz
+jiji
+init crea una carpeta oculta donde estara la base de datos atomicos que le damos
+a nuestro sistema.
+
+Visual studio detecta que estoy usando algun tipo de control de versiones.
+
+git status me  muestra el estatus del proyecto en este momento.
+
