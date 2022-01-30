@@ -20,3 +20,6 @@ git config --global user.name "name" cambiaremos la configuracion del usuario de
 git config --global user.email "email@gmail.com" cambio el correo
 kdkldklakldakldakad
 git add . siempre debes añadir los cambios al commit con esto. El punto es porque es la carpeta actual.
+git log archivo.txt para ver la historia del archivo. Los  numeros luego del commit
+son el tag (indicacion de donde estoy ahora)(nombre de la modificacion(codigo interno que se usa)).
+esta es la version head en la rama maste, es decir, la version mas reciente.
