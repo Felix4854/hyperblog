@@ -7,3 +7,14 @@ Visual studio detecta que estoy usando algun tipo de control de versiones.
 
 git status me  muestra el estatus del proyecto en este momento.
 
+git rm --cached archivo.txt significa que esta en memoria RAM (no guardado en la base de datos en sus cambios). 
+si  te equivocas usa git add para volver al status de antes.
+
+git commit envia los cambios al repositorio. git commit -m "Para  dejar un mensaje (son buenas practicas)".
+
+git config --list te  muestra la configuracion  por defecto del git.
+
+git config --list --show-origin te muestra  donde estan las configuraciones guardadas.
+git config --global vas a cambiar los usuarios globales.
+git config --global user.name "name" cambiaremos la configuracion del usuario de git.
+git config --global user.email "email@gmail.com" cambio el correo
