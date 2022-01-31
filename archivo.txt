@@ -23,3 +23,5 @@ git add . siempre debes añadir los cambios al commit con esto. El punto es porq
 git log archivo.txt para ver la historia del archivo. Los  numeros luego del commit
 son el tag (indicacion de donde estoy ahora)(nombre de la modificacion(codigo interno que se usa)).
 esta es la version head en la rama maste, es decir, la version mas reciente.
+jajaajajaj
+jiji
